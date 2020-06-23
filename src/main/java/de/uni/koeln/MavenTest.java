@@ -1,3 +1,5 @@
+package de.uni.koeln;
+
 public class MavenTest {
 
 
